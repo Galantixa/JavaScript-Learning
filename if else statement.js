@@ -23,6 +23,7 @@ else {
 }
 */
 
+/*
 let online = false;
 
 if(online) {
@@ -30,4 +31,27 @@ if(online) {
 }
 else {
     alert("Maka kamu offline wkwk")
+}
+*/
+
+/*
+var angka;
+angka = window.prompt("Masukan angka!");
+if (angka == 1){
+    alert("kamu memasukan angka 1");
+} else {
+    alert("bukan angka 1");
+}
+*/
+
+let jumlahAngkot = 10;
+let angkotJalan = 6;
+
+for ( let noAngkot = 1; noAngkot <= jumlahAngkot; noAngkot++ ){
+
+    if(noAngkot <= 6){
+        console.log("Angkot no. " + noAngkot + " beroperasi dengan baik!");
+    } else {
+        console.log("Angkot no. " + noAngkot + " sedang rusak!")
+    }
 }

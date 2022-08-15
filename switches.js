@@ -22,7 +22,7 @@ switch(grade){
         console.log("kamu jelek!");
         break;
         case "F":
-        console.log("kamu gagal! huuuuuu")
+        console.log("kamu gagal! huuuuuu");
         break;
         default:
             console.log(grade, "bukan nilai!")
