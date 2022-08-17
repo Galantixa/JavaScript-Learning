@@ -44,14 +44,33 @@ if (angka == 1){
 }
 */
 
+/*
 let jumlahAngkot = 10;
 let angkotJalan = 6;
 
 for ( let noAngkot = 1; noAngkot <= jumlahAngkot; noAngkot++ ){
 
-    if(noAngkot <= 6){
+    if(noAngkot <= angkotJalan){
         console.log("Angkot no. " + noAngkot + " beroperasi dengan baik!");
     } else {
         console.log("Angkot no. " + noAngkot + " sedang rusak!")
     }
 }
+*/
+
+
+/*
+var angka = window.prompt("Masukan angka: ");
+
+
+if (angka % 2 === 0) {
+    alert(angka + " adalah bilangan genap!");
+}
+else if(angka % 2 === 1){
+    alert(angka + " adalah bilangan ganjil!")
+}
+else{
+    alert("yang anda masukan bukan angka!");
+}
+*/
+
