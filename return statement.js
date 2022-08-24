@@ -15,3 +15,5 @@ console.log("The area is:", area);
 function getArea(width, height){
     return width * height;
 }
+
+

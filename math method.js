@@ -26,4 +26,4 @@ Math.log(100)/Math.LN10 // Base 10 logarithm of 100
 3.2
 */
 
-console.log(x);
+console.log(x); 
