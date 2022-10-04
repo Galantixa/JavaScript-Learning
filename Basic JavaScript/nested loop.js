@@ -20,7 +20,6 @@ for(let i = 0; i < 10; i++){
         s += "*";
     }
     s += "\n";
-
 }
 
 console.log(s);
