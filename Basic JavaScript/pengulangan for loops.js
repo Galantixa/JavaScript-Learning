@@ -13,6 +13,7 @@ for(let i = 100; i > 0; i-=1){
 console.log("HAPPY NEW YEAR!");
 */
 
+/*
 for( let nilaiAwal = 1; nilaiAwal <= 100; nilaiAwal += 1){
     console.log("Hello world " + nilaiAwal + " x");
 }
@@ -27,4 +28,17 @@ while(noAngkot <= angkotJalan ){
 }
 for (let nilai2 = angkotJalan + 1; nilai2 <= jumlahAngkot; nilai2 += 1){
     console.log("Angkot no. " + nilai2 + " Rusak");
+}
+*/
+
+// eternal loop
+/*
+for (; ;) {
+    console.log("For Loop")
+}
+*/
+let counter = 1;
+for(; counter <= 10;) {
+    console.log(`pengulangan ke ${counter}`);
+    counter++;
 }

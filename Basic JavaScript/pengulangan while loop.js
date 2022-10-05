@@ -56,10 +56,18 @@ while(noAngkot <= jumlahAngkot ){
 }
 */
 
+/*
 var jumlahAngkot = 10;
 var noAngkot = 1;
 
 while(noAngkot <= jumlahAngkot ){
     console.log("Angkot no. " + noAngkot + " Beroperasi dengan baik");
     noAngkot ++;
+}
+*/
+
+let counter = 1;
+while(counter <= 10) {
+    console.log(`perulangan ke ${counter}`);
+    counter++
 }

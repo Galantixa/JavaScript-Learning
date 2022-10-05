@@ -100,5 +100,19 @@ console.log(hasil);
 
 */
 
+/*
 
+function sayHelloWorld (name) {
+
+    console.log("Hallo saya", name);
+}
+
+sayHelloWorld("Fajar"); 
+sayHelloWorld("Yudi");
+sayHelloWorld("Galantixa");
+sayHelloWorld("Indra");
+sayHelloWorld("Tono");
+sayHelloWorld("Rudi");
+
+*/
 
